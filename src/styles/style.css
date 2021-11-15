@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+1&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  position: relative;
+  min-height: 100%;
+  background-image: url("../assets/image/1.png");
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+main {
+  width: 90%;
+  max-width: 800px;
+  margin: 20px auto;
+  font-family: "M PLUS 1", sans-serif;
+}
